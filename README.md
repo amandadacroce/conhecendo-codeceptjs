@@ -30,6 +30,6 @@ Execute o seguinte comando para rodar todos os testes:
     npx codeceptjs run
 
 
-Para rodar um teste específico execute o seguinte comando:
+Para rodar um teste específico execute o comando grep + a tag do teste:
    ```bash
 npx codeceptjs run --grep '@sucesso'
